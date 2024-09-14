@@ -49,3 +49,12 @@ Once all dependencies are installed, you can execute the following commands to r
    ```
    python generation.py
    ```
+# Model Files
+
+- **emotiondetector.json**: This file contains the architecture of the trained model. It defines the structure of the neural network, including the types and arrangements of layers.
+- **emotiondetector.h5**: This file contains the weights of the trained model. It includes the parameters learned during training.
+
+# Model Performance
+
+Training Accuracy: The model was trained to achieve over 90% accuracy on the dataset, ensuring high performance in emotion detection.
+
